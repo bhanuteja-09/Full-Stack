@@ -26,7 +26,7 @@ const UserProfile = () => {
               </div>
               <div className="user-details">
                 <h2 className="user-name">{`${user.name.first} ${user.name.last}`}</h2>
-                {/* <p className="user-gender">Gender: {user.gender}</p> */}
+                <p className="user-gender">Gender: {user.gender}</p>
                 <p className="user-phone">Phone: {user.phone}</p>
               </div>
             </div>
