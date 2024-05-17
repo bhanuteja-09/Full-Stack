@@ -22,6 +22,7 @@ This project is a simple React application that fetches user data from the Rando
    git clone <repository_url>
 
 2. Navigate to the project directory:
+    full-stack-team-lead
 
 3. Install dependencies:
     npm install
